@@ -130,14 +130,14 @@
         "link": "https://youtu.be/60vIVA5AZ9M"
     },
     {
-        "id": 14,
-        "name": "Sooraj Ki Baahon Mein",
-        "lyrics": "https://gaana.com/lyrics/sooraj-ki-baahon-mein-1",
-        "album": "Zindagi Na Milegi Dobara",
-        "Duration":"3 min 22 sec",
-        "singer": ["Clinton Cerejo","Loy Mendonsa","Dominique Cerejo"],
-        "genre": ["Chill","Motivation","Travel"],
-        "link": "https://youtu.be/gnrSX7TQJqU"
+        "id": 13,
+        "name": "Lut Gaye",
+        "lyrics": "https://open.wynk.in/fNdMBBfHbeb",
+        "album": "Lut Gaye",
+        "Duration":"3 min 48 sec",
+        "singer": ["Jubin Nautiyal"],
+        "genre": ["Romantic"],
+        "link": "https://youtu.be/sCbbMZ-q4-I"
     },
     {
         "id": 15,
@@ -244,30 +244,9 @@
 
 
     },
-
-    {
-        "id": 24,
-        "name": "LAAL ISHQ",
-        "lyrics": "https://www.azlyrics.com/lyrics/arijitsingh/laalishq.html",
-        "album": "Goliyon Ki Raasleela Ram-leela",
-        "Duration":"6 min 43 sec",
-        "singer": ["Arijit Singh"],
-        "genre": ["Romanace"],
-        "link": "https://www.youtube.com/watch?v=PycY_BqbWaw"
-    },
-  {
-        "id": 25,
-        "name": "Saibo",
-        "lyrics": "https://gaana.com/lyrics/saibo-1",
-        "album": "Shor in the City ",
-        "Duration":"3 min 16 sec",
-        "singer": ["Shreya Ghoshal,Tochi Raina"],
-        "genre": ["Filmi, Pop"],
-        "link": "youtube.com/watch?v=P_HrHdFvcsg"
-    },
     
     {
-        "id": 26,
+        "id": 24,
         "name": "Mumbai Dance",
         "lyrics": "",
         "album": "Bass Rani",
@@ -276,7 +255,18 @@
         "genre": ["EDM"],
         "link": "https://www.youtube.com/watch?v=f0DkVn-joQc"
 
-    }
+
+    },
+    {
+        "id": 25,
+        "name": "Lag Jaa Gale",
+        "lyrics": "https://gaana.com/lyrics/lag-ja-gale-se-phir",
+        "album": "LAG JA GALEi",
+        "Duration":"5 min 02 sec",
+        "singer": ["Lata Mangeshkar"],
+        "genre": ["Romance"],
+        "link": "https://www.youtube.com/watch?v=br6C4U3Dyfo"
+    },
     
     
     
